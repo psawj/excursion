@@ -4,13 +4,28 @@ body{
     font-family: Verdana, Tahoma, sans-serif;
 }
 
+/*Headings*/
+
 .header--main{
     font-weight:normal;
     font-size:50px;
     color:white;
 }
 
+.header--second{
+    color:white;
+    font-weight:300;
+    font-size:42;
+}
+
+.header--third{
+    color:grey;
+    font-size:21px;
+}
+
+/*Link*/
 .link--cta{
     font-size:16px;
     color:aquamarine;
 }
+
